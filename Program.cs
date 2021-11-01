@@ -10,6 +10,7 @@ namespace ConsoleApp6
             Console.WriteLine("from github");
 
             Console.WriteLine("from vs");
+            Console.WriteLine("from vs2");
 
             Console.ReadLine();
         }
