@@ -12,6 +12,8 @@ namespace ConsoleApp6
 
             Console.WriteLine("from vs");
             Console.WriteLine("from vs2");
+            Console.WriteLine("abcd");
+
 
             Console.ReadLine();
         }
