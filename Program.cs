@@ -7,6 +7,8 @@ namespace ConsoleApp6
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("from github");
+
             Console.WriteLine("from vs");
 
             Console.ReadLine();
